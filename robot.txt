@@ -1,0 +1,7 @@
+User-agent: Mediapartners-Google
+Disallow:
+User-agent: *
+Disallow: /search?q=
+Allow: /
+Sitemap: https://sajutident.github.io/sitemap.xml
+Sitemap: https://sajutrident.github.io/sitemap-pages.xml
